@@ -14,3 +14,12 @@ p{
 .hourTitle{
     font-weight: bold;
 }
+
+let speed = 50;
+if (speed < 30) {
+    console.log("no ticket")
+}
+else if (speed <=40){
+  console.log("50 dollar fine)
+     
+}
